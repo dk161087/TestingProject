@@ -1,0 +1,14 @@
+{
+
+	"name" : "Dilip",
+	"age" : 36,
+	"address" : { 
+		"streetName" : "R.V.Street",
+		"district" : "Chengalpattu",
+		"pincode" : 603001,
+		"state" : "TamilNadu"
+	
+	},
+	"education" : ["10th", "12th", "B.E CSE", "ME"],
+	"job" : null
+}
